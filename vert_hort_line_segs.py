@@ -1,4 +1,16 @@
-# i line segments and sweep-line algorithm. 
+# i line segments and a sweep-line algorithm. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
