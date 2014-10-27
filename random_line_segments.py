@@ -14,4 +14,8 @@ print("Now plotting: \n")
 plt.plot(*data)
 print("Printed %s random line segments in a unit square." % i) 
 
+# counts the number of intersection points 
+
+
+
   
